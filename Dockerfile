@@ -1,4 +1,4 @@
-FROM quay.io/eclipse/che-java8-maven:nightly
+FROM openjdk-8-ubi8
 
 MAINTAINER tech-tejendra
 
