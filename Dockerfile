@@ -1,4 +1,4 @@
-FROM openjdk-8-ubi8
+FROM ubi8/openjdk-8:1.15
 
 MAINTAINER tech-tejendra
 
